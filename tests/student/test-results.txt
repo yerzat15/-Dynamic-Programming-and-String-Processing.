@@ -1,0 +1,12 @@
+Seed: 20261107; command: ['C:\\Users\\rusla\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe', 'C:\\Project_Rus\\DAA\\Erz\\Python\\source\\main.py']
+PASS named fixtures: 12; actual outputs in fixture-results.json
+PASS independent small oracles and repeated mixed batch: 8128 requests, 0.445 s (process + transport; validation excluded)
+PASS lcs domain limits: 2 requests, 0.494 s (process + transport; validation excluded)
+PASS merge domain limits: 2 requests, 0.826 s (process + transport; validation excluded)
+PASS tree domain limits: 3 requests, 1.064 s (process + transport; validation excluded)
+PASS naive domain limits: 2 requests, 0.441 s (process + transport; validation excluded)
+PASS kmp domain limits: 2 requests, 0.329 s (process + transport; validation excluded)
+PASS rk domain limits: 3 requests, 2.345 s (process + transport; validation excluded)
+PASS suffix domain limits: 2 requests, 1.175 s (process + transport; validation excluded)
+PASS aho domain limits: 4 requests, 3.491 s (process + transport; validation excluded)
+PASS total: 8160 checked responses
