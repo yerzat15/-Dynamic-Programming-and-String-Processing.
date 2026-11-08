@@ -10,7 +10,7 @@ Complete implementations of `lcs`, `merge`, `tree`, `naive`, `kmp`, `rk`, `suffi
 
 ## Run
 
-From the `Erz` directory:
+From the `Dynamic-Programming-and-String-Processing` directory:
 
 ```sh
 python tools/run.py --setup
